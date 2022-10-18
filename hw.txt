@@ -1,0 +1,12 @@
+task
+create a .css file ;call/include the file in the html file (script tag)
+crousal the .css file
+include a nav bar 
+start javascript
+   create a calculator 
+   i)create input box with num1 &nu,2
+   ii)create dropdown & a submit button
+   iii)accessing any element (document.getelementbyId.value)
+   iv)display result using console.log function
+   v)event listeners -> "on click"
+   console.log
